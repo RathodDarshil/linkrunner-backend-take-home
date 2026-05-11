@@ -2,13 +2,13 @@
 
 ## About Linkrunner
 
-Linkrunner is a mobile attribution and analytics platform. Customers ship our SDK, and we tell them which ad campaign installed the user, what that user did in-app, and what they paid. We're the faster, cheaper, more honest alternative to the legacy incumbents in the space. We process billions of events a month with tight latency budgets, because attribution decisions feed back into ad-network bidders within seconds.
+Linkrunner is a mobile attribution and analytics platform. Customers ship our SDK, and we tell them which ad campaign installed the user, what that user did in-app, and what they paid. We process billions of events a month with tight latency budgets, because attribution decisions feed back into ad-network bidders within seconds.
 
 We've raised **$580K (INR 5 Cr)** from top early-stage VC firms including **Titan Capital** and **2am VC**, along with several angel investors.
 
 ## The Role
 
-**Distributed Systems Engineer**, 1 to 3 YoE, Go. You'll work on event ingestion, attribution computation, and the real-time analytics infrastructure that sits behind it. Expect to think about ordering, idempotency, backpressure, and what happens when the network lies. **Location:** in-person, Bangalore (HSR).
+**Distributed Systems Engineer**, 1 to 3 YoE, Go. You'll work on event ingestion, attribution computation, and the real-time analytics infrastructure that sits behind it. **Location:** in-person, Bangalore (HSR).
 
 ## About this assignment
 
@@ -61,7 +61,7 @@ Add a `## Decisions` section to your submission's README answering the six quest
 - Create a **private** GitHub repo.
 - Record a **short video (under 30 seconds)** showing the service working end to end: producer posts an event, it persists, it lands at the downstream in order. Loom or unlisted YouTube is fine; **the link must be publicly accessible** (no sign-in or "request access" wall).
 - **Embed the video link in your submission's README** (near the top, under a `## Demo` heading or similar).
-- Email **darshil@linkrunner.io** with the repo link and a 2-line note on anything you want us to know.
+- Submit by filling out this form: **https://forms.gle/8prWCSxubhd62tek8**
 
 ## What happens next
 
