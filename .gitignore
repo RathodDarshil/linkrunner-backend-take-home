@@ -1,0 +1,38 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Test binaries and coverage
+*.test
+*.out
+coverage.txt
+
+# Go workspace and vendor
+go.work
+go.work.sum
+vendor/
+
+# Persistence artifacts candidates may produce
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+data/
+*.bolt
+*.boltdb
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Env
+.env
+.env.local
